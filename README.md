@@ -31,17 +31,7 @@ Salut, moi c'est Kylian ! 👋
 
 ### 📊 Mes Statistiques GitHub
 
-<div align="center">
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kylianf-r&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  </a>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kylianf-r&layout=compact&theme=dark&hide_border=true" />
-  </a>
-
-</div>
+(à venir...)
 
 <!---
 Kylianf-r/Kylianf-r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
