@@ -29,6 +29,20 @@ Salut, moi c'est Kylian ! 👋
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GNU Make](https://img.shields.io/badge/Make_(Automatisation)-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
 
+### 📊 Mes Statistiques GitHub
+
+<div align="center">
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kylianf-r&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  </a>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kylianf-r&layout=compact&theme=dark&hide_border=true" />
+  </a>
+
+</div>
+
 <!---
 Kylianf-r/Kylianf-r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
