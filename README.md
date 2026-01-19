@@ -1,6 +1,6 @@
 Salut, moi c'est Kylian ! 👋
 
-Étudiant en BTS Service Informatique aux Organisations (SIO) option Solutions Logicielles et Applications Métiers (SLAM), je me passionne pour le développement C# .NET et l'écosystème React.
+Étudiant en BTS Service Informatique aux Organisations (SIO) option Solutions Logicielles et Applications Métiers (SLAM).
 
 🛠️ Mes compétences techniques : 
 ### 🗄️ Base de données
