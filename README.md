@@ -6,6 +6,9 @@
   <a href="https://kfr-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
+  <a href="https://www.linkedin.com/in/kylian-fourmont-rosa-919831293/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 ## 👨‍💻 About me
