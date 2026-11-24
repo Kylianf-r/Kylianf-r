@@ -1,35 +1,49 @@
-Salut, moi c'est Kylian ! 👋
+<p align="center">
+  <img src="./banner.svg" alt="Kylian Fourmont-Rosa" width="100%" />
+</p>
 
-Étudiant en BTS Service Informatique aux Organisations (SIO) option Solutions Logicielles et Applications Métiers (SLAM).
+<p align="center">
+  <a href="https://kfr-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
-🛠️ Mes compétences techniques : 
-### 🗄️ Base de données
-![SQL](https://img.shields.io/badge/SQL-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![IBM DB2](https://img.shields.io/badge/IBM%20DB2-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+## 👨‍💻 About me
 
-### 💻 Développement
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+I'm a software development apprentice based in France, passionate about building applications and exploring new technologies.
 
-### 🖥️ Systèmes d'exploitation
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+- 🎓 Computer science student
+- 💻 Software development apprentice
+- 🚀 Building personal projects
+- 🌱 Always learning new technologies
 
-### 🛠️ Outils & Autres
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GNU Make](https://img.shields.io/badge/Make_(Automatisation)-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
+## Tech stack
 
-### 📊 Mes Statistiques GitHub
+### Languages
 
-(à venir...)
+[![Languages](https://skillicons.dev/icons?i=js,ts,cs,html,css)](https://skillicons.dev)
 
-<!---
-Kylianf-r/Kylianf-r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Frameworks
+
+[![Frameworks](https://skillicons.dev/icons?i=react,flutter)](https://skillicons.dev)
+
+### Development tools
+
+[![Tools](https://skillicons.dev/icons?i=git,github,webstorm)](https://skillicons.dev)
+
+## Projects
+
+Discover my projects and professional journey:
+
+- [Personal portfolio](https://kfr-portfolio.vercel.app/)
+- [Public repositories](https://github.com/Kylianf-r?tab=repositories)
+
+## GitHub activity
+
+[![GitHub activity](https://github-readme-activity-graph.vercel.app/graph?username=Kylianf-r&bg_color=0d1117&color=c4b5fd&line=8b5cf6&point=ffffff&area=true&hide_border=true)](https://github.com/Kylianf-r)
+
+---
+
+<p align="center">
+  <i>Always learning. Always building.</i>
+</p>
